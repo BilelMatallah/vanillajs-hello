@@ -6,7 +6,7 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 let who = [
-  "The dog ",
+  "The cat ",
   "My grandma ",
   "The mailman ",
   "My bird ",
